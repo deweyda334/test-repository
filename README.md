@@ -1,2 +1,2 @@
 # test-repository
- Just a new test repository on GitHub
+ My test repository on GitHub.
